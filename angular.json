@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ClientStock"
+  "defaultProject": "ClientStock",
+  "cli": {
+    "analytics": "cd27f39e-e5dd-485d-bd21-f1f87ca51260"
+  }
 }
